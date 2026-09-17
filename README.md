@@ -1,0 +1,2 @@
+# Honkai_Impact_3-Full_Power_26.09.14-simulated_combat
+This repository includes a python program which records all the characters' (but for Vita's, who lost before I got to know the activity) ability, and offers a simulating program for you to predict the game's result.All the abilities have been modified according to the previous games, though I am not sure whether there are not any bugs.Hope it helps
